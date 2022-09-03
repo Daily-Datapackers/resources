@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {"predicate": {"custom_model_data" : 1000}, "model": "item/cosmetics/blaze_rod"},
+    {"predicate": {"custom_model_data" : 2000}, "model": "item/cosmetics/magic_circle"}
+  ]
+}
