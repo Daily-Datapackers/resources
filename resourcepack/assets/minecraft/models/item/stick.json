@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {"predicate": {"custom_model_data" : 1000}, "model": "item/custom/whack_a_frog"},
+    {"predicate": {"custom_model_data" : 1001}, "model": "item/custom/red_button"}
+  ]
+}
