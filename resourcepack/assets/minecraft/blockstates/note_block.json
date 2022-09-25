@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "instrument=bit": [
+      {
+        "model": "minecraft:block/stone"
+      }
+    ]
+  }
+}
