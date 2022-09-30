@@ -1,8 +1,8 @@
 {
   "variants": {
-    "instrument=bit": [
+    "instrument=harp,note=0": [
       {
-        "model": "minecraft:block/stone"
+        "model": "block/fan"
       }
     ]
   }
