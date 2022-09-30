@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "instrument=harp,note=1": [
-      {
-        "model": "block/fan"
-      }
-    ]
-  }
-}
