@@ -8,3 +8,5 @@ _A lot of stuff :D_
 - Cosmetic Models
 - Cosmetic Textures
 - Minigame Models
+- Minigame Textures
+- Custom Block Textures
