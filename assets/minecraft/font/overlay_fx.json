@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:fnt_bitmap/black_fade.png",
+            "file": "minecraft:fnt_bitmap/whole_screen_overlay_single_color.png",
             "ascent": 300,
             "height": 500,
             "chars": [
