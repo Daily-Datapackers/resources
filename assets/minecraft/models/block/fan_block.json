@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/blast_furnace_side",
 		"1": "block/blast_furnace_top",
-		"2": "block/fan_top",
+		"2": "block/fan_blades",
 		"3": "block/cauldron_inner",
 		"particle": "block/blast_furnace_side"
 	},
