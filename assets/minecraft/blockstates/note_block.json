@@ -1,8 +1,10 @@
 {
   "variants": {
-    "instrument=harp,note=1,powered=false":
-      {
+    "instrument=harp,note=1,powered=false": {
         "model": "block/teleport_block"
-      }
+    },
+    "instrument=harp,note=2,powered=false": {
+        "model": "block/death_block"
+    }
   }
 }
