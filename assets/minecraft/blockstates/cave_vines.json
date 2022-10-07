@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0,berries=false": {
+        "model": "block/ceiling_block_sticky"
+    },
+    "age=1,berries=false": {
+      "model": "block/ceiling_block_release"
+    }
+  }
+}

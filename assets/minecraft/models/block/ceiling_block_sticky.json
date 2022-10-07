@@ -1,0 +1,6 @@
+{
+	"parent": "block/ceiling_block_template",
+	"textures": {
+		"all": "block/honey_block_bottom"
+	}
+}
