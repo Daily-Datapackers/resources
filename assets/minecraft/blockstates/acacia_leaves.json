@@ -1,7 +1,6 @@
 {
   "variants": {
-    "persistent=true,waterlogged=false,distance=7":
-      {
+    "persistent=true,waterlogged=false,distance=7": {
         "model": "block/fan_block"
       }
   }

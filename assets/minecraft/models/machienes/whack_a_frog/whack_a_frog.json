@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/whack_a_frog_table",
+		"0": "entity_blocks/whack_a_frog_table",
 		"1": "block/birch_planks",
 		"2": "block/barrel_bottom",
-		"particle": "item/whack_a_frog_table"
+		"particle": "entity_blocks/whack_a_frog_table"
 	},
 	"elements": [
 		{
