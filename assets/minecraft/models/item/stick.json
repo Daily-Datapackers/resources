@@ -3,6 +3,6 @@
   "overrides": [
     {"predicate": {"custom_model_data" : 1000}, "model": "item/machines/whack_a_frog/whack_a_frog"},
     {"predicate": {"custom_model_data" : 1001}, "model": "item/machines/whack_a_frog/red_button"},
-    {"predicate": {"custom_model_data" : 1002}, "model": "item/block/ceiling_block_sticky"},
+    {"predicate": {"custom_model_data" : 1002}, "model": "block/ceiling_block_sticky"},
   ]
 }
